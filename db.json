@@ -68,11 +68,11 @@
       }
     ],
     "jobType": [
-      { "label": "Accounting", "value": "1" },
-      { "label": "IT & Software", "value": "2" },
-      { "label": "Marketing", "value": "3" },
-      { "label": "Banking", "value": "4" },
-      { "label": "Design", "value": "5" }
+      { "label": "프리랜서", "value": "1" },
+      { "label": "직장인", "value": "2" },
+      { "label": "소상공인", "value": "3" },
+      { "label": "대학(원)생", "value": "4" },
+      { "label": "취업준비생", "value": "5" }
     ]
   }
   
