@@ -71,7 +71,8 @@
       { "label": "Accounting", "value": "1" },
       { "label": "IT & Software", "value": "2" },
       { "label": "Marketing", "value": "3" },
-      { "label": "Banking", "value": "4" }
+      { "label": "Banking", "value": "4" },
+      { "label": "Design", "value": "5" }
     ]
   }
   
