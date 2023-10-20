@@ -59,6 +59,12 @@
         "icon": "uim-android-alt",
         "name": "Human Resource",
         "job": 1516
+      },
+      {
+        "id": 8,
+        "icon": "uim-android-alt",
+        "name": "Human Resource2",
+        "job": 1511
       }
     ]
   }
