@@ -66,6 +66,12 @@
         "name": "Human Resource2",
         "job": 1511
       }
+    ],
+    "jobType": [
+      { "label": "Accounting", "value": "1" },
+      { "label": "IT & Software", "value": "2" },
+      { "label": "Marketing", "value": "3" },
+      { "label": "Banking", "value": "4" }
     ]
   }
   
